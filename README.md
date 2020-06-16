@@ -5,7 +5,7 @@ Lots of advanced programming techniques rely on the concept of **Type**:
 - You may have already tried to configure a container to register (export) a set of types.
 - Or you may have used .NET reflection to do cool stuff
 
-... and soon after, you realized working with **Types** isn't as terse as one would like.
+... and soon after, you realized that working with **Types** isn't as terse as one would want.
 
 With this library, you will have a nicer experience discovering types at run time so you can filter them out to your needs without any trouble.
 
